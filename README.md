@@ -123,3 +123,9 @@ npm run dev
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
+
+## 🙋‍♂️ Author
+
+Promise Ugochukwu Nnanemere
+
+[🔗 LinkedIn](https://linkedin.com/in/promiseugochukwunnanemere)
