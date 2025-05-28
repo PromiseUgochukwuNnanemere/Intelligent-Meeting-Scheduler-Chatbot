@@ -29,6 +29,7 @@ The chatbot logic is powered by **Amazon Lex**, with frontend components built i
 ## Code
 
 [Code Link](https://drive.google.com/file/d/1Y82YmurnwIcgfa0kSnzvoIhuInRb7jMr/view?usp=drive_link)
+---
 
 ## ☁️ Cloud Architecture
 
