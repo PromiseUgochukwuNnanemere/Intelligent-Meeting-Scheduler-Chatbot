@@ -2,6 +2,7 @@
 # 🤖 Intelligent Meeting Scheduler Chatbot
 
 This project is a cloud-native chatbot application built using **Amazon Lex** to help users schedule meetings intelligently via conversational interfaces.
+
 ---
 
 ## 📑 Table of Contents
@@ -13,6 +14,7 @@ This project is a cloud-native chatbot application built using **Amazon Lex** to
 - [Local Development](#-local-development)
 - [Improvements](#-future-improvements)
 - [License](#-license)
+  
 ---
 
 ## 🧩 Project Overview
@@ -24,11 +26,13 @@ This chatbot allows users to interact in natural language to:
 - Confirm the appointment
 
 The chatbot logic is powered by **Amazon Lex**, with frontend components built in **React + TypeScript**.
+
 ---
 
 ## Code
 
 [Code Link](https://drive.google.com/file/d/1Y82YmurnwIcgfa0kSnzvoIhuInRb7jMr/view?usp=drive_link)
+
 ---
 
 ## ☁️ Cloud Architecture
@@ -41,6 +45,7 @@ The chatbot logic is powered by **Amazon Lex**, with frontend components built i
 | Frontend     | React.js + Vite    |
 
 ![Architecture Diagram](images/architecture.png)
+
 ---
 
 ## 📸 Screenshots
@@ -51,6 +56,7 @@ The chatbot logic is powered by **Amazon Lex**, with frontend components built i
 ![Frontend Homepage](images/Frontend_Homepage.png)
 ![Chat](images/Chat.png)
 ![Admin Page](images/admin_page.png)
+
 ---
 
 ## 🛠️ Technologies Used
@@ -61,6 +67,7 @@ The chatbot logic is powered by **Amazon Lex**, with frontend components built i
 - React.js (frontend UI)
 - TypeScript
 - Vite
+  
 ---
 
 ## 🚀 How to Deploy
@@ -108,9 +115,11 @@ npm run dev
 - Introduce a scheduling window
 - Add multilingual support
 - Maintain user profiles for different sessions
+  
 ---
 
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 ---
